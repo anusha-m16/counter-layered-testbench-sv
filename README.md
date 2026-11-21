@@ -2,7 +2,7 @@
 
 Layered SystemVerilog testbench to verify a 4-bit up counter with synchronous reset and enable. Made for my VLSI verification assignment.
 
-**Name:** _your name_  
+**Name:** _Anusha M_  
 **Course:** Verification of VLSI Circuits using SystemVerilog  
 **Tool:** EDA Playground, simulator: Siemens Questa 2025.2
 
